@@ -1,2 +1,2 @@
-# Smaple-test
+# Sample-test
 practice 1
